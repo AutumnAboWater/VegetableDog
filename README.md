@@ -1,5 +1,4 @@
-#VegetableDog Eat Food System
-### 菜狗点餐系统
+### VegetableDog Eat Food System
 <ul>
 <li>先运行sql脚本</li>
 <li>修改applition中的数据库配置文件</li>
